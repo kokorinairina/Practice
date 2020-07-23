@@ -88,7 +88,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "{{token}}",
+							"value": "AQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAAZ-KQx9Y8kGFX7ItjR4uNgAAAAACAAAAAAAQZgAAAAEAACAAAAB0Rs1OVgPMopSB9NaJl4ZMNnnvaAPt07DVTF20q0LndAAAAAAOgAAAAAIAACAAAACWcKkuopxkaIKiv-W3SrZJ54P1Ewe-AOw2udKWvph7cBABAAD0lV5CT9ZgtTyguA7iybdZg4g72ntD9ZPkTQiLEeUCJfUYfzi5Vlem6N13VJ1d3xhmMP-JE56xfY2--OW7cZwBNUM5oJwVhEZMLSFC_SwSR2HqadzR72KWGucunMWKKAlFizJnPPO0WyQQGWugkLaczDH-bAsdzhTb01x4J-6Zr8cgfCG7t2lxjF1bfPV1fiad1KbTCrEUgkvJw4eYhRA-Jt_ri4dJ8iJyg8ly519xV_L0W8YCWiHB4lMjGGdsa46C4m5cm34RbH3rYApsCJZT88QShGEeVMV8jciy64Ev9Vqvg7bkzaarqjoSBhzkQ_a-S0XC9QhIsSE5C96Xj8T750j4vqjrkJZREOogoK1LQUAAAAAv6EA0cCm05TZHRrxZ64a-lELha-noDOucYqliReK4693g4xr0_FmZ3pGIv1jgBPcj5ZaFYJsSQ1k2AJhMr3oW",
 							"type": "string"
 						}
 					]
@@ -144,7 +144,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "{{token}}",
+							"value": "AQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAAZ-KQx9Y8kGFX7ItjR4uNgAAAAACAAAAAAAQZgAAAAEAACAAAAB0Rs1OVgPMopSB9NaJl4ZMNnnvaAPt07DVTF20q0LndAAAAAAOgAAAAAIAACAAAACWcKkuopxkaIKiv-W3SrZJ54P1Ewe-AOw2udKWvph7cBABAAD0lV5CT9ZgtTyguA7iybdZg4g72ntD9ZPkTQiLEeUCJfUYfzi5Vlem6N13VJ1d3xhmMP-JE56xfY2--OW7cZwBNUM5oJwVhEZMLSFC_SwSR2HqadzR72KWGucunMWKKAlFizJnPPO0WyQQGWugkLaczDH-bAsdzhTb01x4J-6Zr8cgfCG7t2lxjF1bfPV1fiad1KbTCrEUgkvJw4eYhRA-Jt_ri4dJ8iJyg8ly519xV_L0W8YCWiHB4lMjGGdsa46C4m5cm34RbH3rYApsCJZT88QShGEeVMV8jciy64Ev9Vqvg7bkzaarqjoSBhzkQ_a-S0XC9QhIsSE5C96Xj8T750j4vqjrkJZREOogoK1LQUAAAAAv6EA0cCm05TZHRrxZ64a-lELha-noDOucYqliReK4693g4xr0_FmZ3pGIv1jgBPcj5ZaFYJsSQ1k2AJhMr3oW",
 							"type": "string"
 						}
 					]
@@ -161,7 +161,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://104.40.150.146/api/user/{{id}}\n",
+					"raw": "http://104.40.150.146/api/user/3e757bc391c840b5914b2b9e907ee082\n",
 					"protocol": "http",
 					"host": [
 						"104",
@@ -172,7 +172,7 @@
 					"path": [
 						"api",
 						"user",
-						"{{id}}\n"
+						"3e757bc391c840b5914b2b9e907ee082\n"
 					]
 				}
 			},
@@ -211,7 +211,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "{{token}}",
+							"value": "AQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAAZ-KQx9Y8kGFX7ItjR4uNgAAAAACAAAAAAAQZgAAAAEAACAAAAB0Rs1OVgPMopSB9NaJl4ZMNnnvaAPt07DVTF20q0LndAAAAAAOgAAAAAIAACAAAACWcKkuopxkaIKiv-W3SrZJ54P1Ewe-AOw2udKWvph7cBABAAD0lV5CT9ZgtTyguA7iybdZg4g72ntD9ZPkTQiLEeUCJfUYfzi5Vlem6N13VJ1d3xhmMP-JE56xfY2--OW7cZwBNUM5oJwVhEZMLSFC_SwSR2HqadzR72KWGucunMWKKAlFizJnPPO0WyQQGWugkLaczDH-bAsdzhTb01x4J-6Zr8cgfCG7t2lxjF1bfPV1fiad1KbTCrEUgkvJw4eYhRA-Jt_ri4dJ8iJyg8ly519xV_L0W8YCWiHB4lMjGGdsa46C4m5cm34RbH3rYApsCJZT88QShGEeVMV8jciy64Ev9Vqvg7bkzaarqjoSBhzkQ_a-S0XC9QhIsSE5C96Xj8T750j4vqjrkJZREOogoK1LQUAAAAAv6EA0cCm05TZHRrxZ64a-lELha-noDOucYqliReK4693g4xr0_FmZ3pGIv1jgBPcj5ZaFYJsSQ1k2AJhMr3oW",
 							"type": "string"
 						}
 					]
@@ -228,7 +228,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://104.40.150.146/api/user/{{id}}\n",
+					"raw": "http://104.40.150.146/api/user/3e757bc391c840b5914b2b9e907ee082\n",
 					"protocol": "http",
 					"host": [
 						"104",
@@ -239,7 +239,7 @@
 					"path": [
 						"api",
 						"user",
-						"{{id}}\n"
+						"3e757bc391c840b5914b2b9e907ee082\n"
 					]
 				}
 			},
@@ -275,7 +275,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "{{token}}",
+							"value": "AQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAAZ-KQx9Y8kGFX7ItjR4uNgAAAAACAAAAAAAQZgAAAAEAACAAAAB0Rs1OVgPMopSB9NaJl4ZMNnnvaAPt07DVTF20q0LndAAAAAAOgAAAAAIAACAAAACWcKkuopxkaIKiv-W3SrZJ54P1Ewe-AOw2udKWvph7cBABAAD0lV5CT9ZgtTyguA7iybdZg4g72ntD9ZPkTQiLEeUCJfUYfzi5Vlem6N13VJ1d3xhmMP-JE56xfY2--OW7cZwBNUM5oJwVhEZMLSFC_SwSR2HqadzR72KWGucunMWKKAlFizJnPPO0WyQQGWugkLaczDH-bAsdzhTb01x4J-6Zr8cgfCG7t2lxjF1bfPV1fiad1KbTCrEUgkvJw4eYhRA-Jt_ri4dJ8iJyg8ly519xV_L0W8YCWiHB4lMjGGdsa46C4m5cm34RbH3rYApsCJZT88QShGEeVMV8jciy64Ev9Vqvg7bkzaarqjoSBhzkQ_a-S0XC9QhIsSE5C96Xj8T750j4vqjrkJZREOogoK1LQUAAAAAv6EA0cCm05TZHRrxZ64a-lELha-noDOucYqliReK4693g4xr0_FmZ3pGIv1jgBPcj5ZaFYJsSQ1k2AJhMr3oW",
 							"type": "string"
 						}
 					]
@@ -329,7 +329,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "{{token}}",
+							"value": "AQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAAZ-KQx9Y8kGFX7ItjR4uNgAAAAACAAAAAAAQZgAAAAEAACAAAAB0Rs1OVgPMopSB9NaJl4ZMNnnvaAPt07DVTF20q0LndAAAAAAOgAAAAAIAACAAAACWcKkuopxkaIKiv-W3SrZJ54P1Ewe-AOw2udKWvph7cBABAAD0lV5CT9ZgtTyguA7iybdZg4g72ntD9ZPkTQiLEeUCJfUYfzi5Vlem6N13VJ1d3xhmMP-JE56xfY2--OW7cZwBNUM5oJwVhEZMLSFC_SwSR2HqadzR72KWGucunMWKKAlFizJnPPO0WyQQGWugkLaczDH-bAsdzhTb01x4J-6Zr8cgfCG7t2lxjF1bfPV1fiad1KbTCrEUgkvJw4eYhRA-Jt_ri4dJ8iJyg8ly519xV_L0W8YCWiHB4lMjGGdsa46C4m5cm34RbH3rYApsCJZT88QShGEeVMV8jciy64Ev9Vqvg7bkzaarqjoSBhzkQ_a-S0XC9QhIsSE5C96Xj8T750j4vqjrkJZREOogoK1LQUAAAAAv6EA0cCm05TZHRrxZ64a-lELha-noDOucYqliReK4693g4xr0_FmZ3pGIv1jgBPcj5ZaFYJsSQ1k2AJhMr3oW",
 							"type": "string"
 						}
 					]
@@ -392,7 +392,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "{{token}}",
+							"value": "AQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAAZ-KQx9Y8kGFX7ItjR4uNgAAAAACAAAAAAAQZgAAAAEAACAAAAB0Rs1OVgPMopSB9NaJl4ZMNnnvaAPt07DVTF20q0LndAAAAAAOgAAAAAIAACAAAACWcKkuopxkaIKiv-W3SrZJ54P1Ewe-AOw2udKWvph7cBABAAD0lV5CT9ZgtTyguA7iybdZg4g72ntD9ZPkTQiLEeUCJfUYfzi5Vlem6N13VJ1d3xhmMP-JE56xfY2--OW7cZwBNUM5oJwVhEZMLSFC_SwSR2HqadzR72KWGucunMWKKAlFizJnPPO0WyQQGWugkLaczDH-bAsdzhTb01x4J-6Zr8cgfCG7t2lxjF1bfPV1fiad1KbTCrEUgkvJw4eYhRA-Jt_ri4dJ8iJyg8ly519xV_L0W8YCWiHB4lMjGGdsa46C4m5cm34RbH3rYApsCJZT88QShGEeVMV8jciy64Ev9Vqvg7bkzaarqjoSBhzkQ_a-S0XC9QhIsSE5C96Xj8T750j4vqjrkJZREOogoK1LQUAAAAAv6EA0cCm05TZHRrxZ64a-lELha-noDOucYqliReK4693g4xr0_FmZ3pGIv1jgBPcj5ZaFYJsSQ1k2AJhMr3oW",
 							"type": "string"
 						}
 					]
@@ -446,7 +446,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "{{token}}",
+							"value": "AQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAAZ-KQx9Y8kGFX7ItjR4uNgAAAAACAAAAAAAQZgAAAAEAACAAAAB0Rs1OVgPMopSB9NaJl4ZMNnnvaAPt07DVTF20q0LndAAAAAAOgAAAAAIAACAAAACWcKkuopxkaIKiv-W3SrZJ54P1Ewe-AOw2udKWvph7cBABAAD0lV5CT9ZgtTyguA7iybdZg4g72ntD9ZPkTQiLEeUCJfUYfzi5Vlem6N13VJ1d3xhmMP-JE56xfY2--OW7cZwBNUM5oJwVhEZMLSFC_SwSR2HqadzR72KWGucunMWKKAlFizJnPPO0WyQQGWugkLaczDH-bAsdzhTb01x4J-6Zr8cgfCG7t2lxjF1bfPV1fiad1KbTCrEUgkvJw4eYhRA-Jt_ri4dJ8iJyg8ly519xV_L0W8YCWiHB4lMjGGdsa46C4m5cm34RbH3rYApsCJZT88QShGEeVMV8jciy64Ev9Vqvg7bkzaarqjoSBhzkQ_a-S0XC9QhIsSE5C96Xj8T750j4vqjrkJZREOogoK1LQUAAAAAv6EA0cCm05TZHRrxZ64a-lELha-noDOucYqliReK4693g4xr0_FmZ3pGIv1jgBPcj5ZaFYJsSQ1k2AJhMr3oW",
 							"type": "string"
 						}
 					]
@@ -454,7 +454,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://104.40.150.146/api/game/{{gameID}}",
+					"raw": "http://104.40.150.146/api/game/130e65b5d08a42508e548a2fbeaf31ed",
 					"protocol": "http",
 					"host": [
 						"104",
@@ -465,7 +465,7 @@
 					"path": [
 						"api",
 						"game",
-						"{{gameID}}"
+						"130e65b5d08a42508e548a2fbeaf31ed"
 					]
 				}
 			},
@@ -501,7 +501,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "{{token}}",
+							"value": "AQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAAZ-KQx9Y8kGFX7ItjR4uNgAAAAACAAAAAAAQZgAAAAEAACAAAAB0Rs1OVgPMopSB9NaJl4ZMNnnvaAPt07DVTF20q0LndAAAAAAOgAAAAAIAACAAAACWcKkuopxkaIKiv-W3SrZJ54P1Ewe-AOw2udKWvph7cBABAAD0lV5CT9ZgtTyguA7iybdZg4g72ntD9ZPkTQiLEeUCJfUYfzi5Vlem6N13VJ1d3xhmMP-JE56xfY2--OW7cZwBNUM5oJwVhEZMLSFC_SwSR2HqadzR72KWGucunMWKKAlFizJnPPO0WyQQGWugkLaczDH-bAsdzhTb01x4J-6Zr8cgfCG7t2lxjF1bfPV1fiad1KbTCrEUgkvJw4eYhRA-Jt_ri4dJ8iJyg8ly519xV_L0W8YCWiHB4lMjGGdsa46C4m5cm34RbH3rYApsCJZT88QShGEeVMV8jciy64Ev9Vqvg7bkzaarqjoSBhzkQ_a-S0XC9QhIsSE5C96Xj8T750j4vqjrkJZREOogoK1LQUAAAAAv6EA0cCm05TZHRrxZ64a-lELha-noDOucYqliReK4693g4xr0_FmZ3pGIv1jgBPcj5ZaFYJsSQ1k2AJhMr3oW",
 							"type": "string"
 						}
 					]
@@ -555,7 +555,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "{{token}}",
+							"value": "AQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAAZ-KQx9Y8kGFX7ItjR4uNgAAAAACAAAAAAAQZgAAAAEAACAAAAB0Rs1OVgPMopSB9NaJl4ZMNnnvaAPt07DVTF20q0LndAAAAAAOgAAAAAIAACAAAACWcKkuopxkaIKiv-W3SrZJ54P1Ewe-AOw2udKWvph7cBABAAD0lV5CT9ZgtTyguA7iybdZg4g72ntD9ZPkTQiLEeUCJfUYfzi5Vlem6N13VJ1d3xhmMP-JE56xfY2--OW7cZwBNUM5oJwVhEZMLSFC_SwSR2HqadzR72KWGucunMWKKAlFizJnPPO0WyQQGWugkLaczDH-bAsdzhTb01x4J-6Zr8cgfCG7t2lxjF1bfPV1fiad1KbTCrEUgkvJw4eYhRA-Jt_ri4dJ8iJyg8ly519xV_L0W8YCWiHB4lMjGGdsa46C4m5cm34RbH3rYApsCJZT88QShGEeVMV8jciy64Ev9Vqvg7bkzaarqjoSBhzkQ_a-S0XC9QhIsSE5C96Xj8T750j4vqjrkJZREOogoK1LQUAAAAAv6EA0cCm05TZHRrxZ64a-lELha-noDOucYqliReK4693g4xr0_FmZ3pGIv1jgBPcj5ZaFYJsSQ1k2AJhMr3oW",
 							"type": "string"
 						}
 					]
@@ -563,7 +563,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "http://104.40.150.146/api/game/{{DelgameID}}",
+					"raw": "http://104.40.150.146/api/game/bb4b09a761004c8eab312c0b34957122",
 					"protocol": "http",
 					"host": [
 						"104",
@@ -574,7 +574,7 @@
 					"path": [
 						"api",
 						"game",
-						"{{DelgameID}}"
+						"bb4b09a761004c8eab312c0b34957122"
 					]
 				}
 			},
@@ -610,7 +610,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "{{token}}",
+							"value": "AQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAAZ-KQx9Y8kGFX7ItjR4uNgAAAAACAAAAAAAQZgAAAAEAACAAAAB0Rs1OVgPMopSB9NaJl4ZMNnnvaAPt07DVTF20q0LndAAAAAAOgAAAAAIAACAAAACWcKkuopxkaIKiv-W3SrZJ54P1Ewe-AOw2udKWvph7cBABAAD0lV5CT9ZgtTyguA7iybdZg4g72ntD9ZPkTQiLEeUCJfUYfzi5Vlem6N13VJ1d3xhmMP-JE56xfY2--OW7cZwBNUM5oJwVhEZMLSFC_SwSR2HqadzR72KWGucunMWKKAlFizJnPPO0WyQQGWugkLaczDH-bAsdzhTb01x4J-6Zr8cgfCG7t2lxjF1bfPV1fiad1KbTCrEUgkvJw4eYhRA-Jt_ri4dJ8iJyg8ly519xV_L0W8YCWiHB4lMjGGdsa46C4m5cm34RbH3rYApsCJZT88QShGEeVMV8jciy64Ev9Vqvg7bkzaarqjoSBhzkQ_a-S0XC9QhIsSE5C96Xj8T750j4vqjrkJZREOogoK1LQUAAAAAv6EA0cCm05TZHRrxZ64a-lELha-noDOucYqliReK4693g4xr0_FmZ3pGIv1jgBPcj5ZaFYJsSQ1k2AJhMr3oW",
 							"type": "string"
 						}
 					]
@@ -664,7 +664,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "{{token}}",
+							"value": "AQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAAZ-KQx9Y8kGFX7ItjR4uNgAAAAACAAAAAAAQZgAAAAEAACAAAAB0Rs1OVgPMopSB9NaJl4ZMNnnvaAPt07DVTF20q0LndAAAAAAOgAAAAAIAACAAAACWcKkuopxkaIKiv-W3SrZJ54P1Ewe-AOw2udKWvph7cBABAAD0lV5CT9ZgtTyguA7iybdZg4g72ntD9ZPkTQiLEeUCJfUYfzi5Vlem6N13VJ1d3xhmMP-JE56xfY2--OW7cZwBNUM5oJwVhEZMLSFC_SwSR2HqadzR72KWGucunMWKKAlFizJnPPO0WyQQGWugkLaczDH-bAsdzhTb01x4J-6Zr8cgfCG7t2lxjF1bfPV1fiad1KbTCrEUgkvJw4eYhRA-Jt_ri4dJ8iJyg8ly519xV_L0W8YCWiHB4lMjGGdsa46C4m5cm34RbH3rYApsCJZT88QShGEeVMV8jciy64Ev9Vqvg7bkzaarqjoSBhzkQ_a-S0XC9QhIsSE5C96Xj8T750j4vqjrkJZREOogoK1LQUAAAAAv6EA0cCm05TZHRrxZ64a-lELha-noDOucYqliReK4693g4xr0_FmZ3pGIv1jgBPcj5ZaFYJsSQ1k2AJhMr3oW",
 							"type": "string"
 						}
 					]
@@ -672,7 +672,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://104.40.150.146/api/user/{{id}}/maps",
+					"raw": "http://104.40.150.146/api/user/3e757bc391c840b5914b2b9e907ee082/maps",
 					"protocol": "http",
 					"host": [
 						"104",
@@ -683,7 +683,7 @@
 					"path": [
 						"api",
 						"user",
-						"{{id}}",
+						"3e757bc391c840b5914b2b9e907ee082",
 						"maps"
 					]
 				}
