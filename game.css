@@ -1,0 +1,44 @@
+.game-timer-warn {
+  color: #FFA600;
+}
+.game-timer-cri {
+  color: red;
+}
+
+.game-player {
+  color: black;
+  padding: 3px;
+}
+.game-player:nth-child(even) {
+  background: #454545;
+}
+.game-player:nth-child(odd) {
+  background: #5F5F5F;
+}
+.game-player-lives,
+.game-player-coins,
+.game-player-deaths {
+  border: 1px solid;
+  border-radius: 2px;
+}
+.game-player-lives {
+  color: black;
+  background-color: red;
+}
+.game-player-coins {
+  color: black;
+  background-color: #FFA600;
+}
+.game-player-deaths {
+  color: white;
+  background-color: black;
+}
+
+.game-player-status-dc,
+.game-player-status-dd {
+  background: #660000 !important;
+}
+
+.game-team-winner {
+  background-color: gold !important;
+}
